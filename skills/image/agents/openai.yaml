@@ -1,0 +1,3 @@
+display_name: VTeTech Image
+short_description: VTeTech image understanding, style prompts, and batch generation.
+default_prompt: Use the VTeTech image skill to select a GPT-Image2 style and create or generate the requested image.
